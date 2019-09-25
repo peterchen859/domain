@@ -1,1 +1,1 @@
-这块数据是中文
+this is message
